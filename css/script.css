@@ -1,0 +1,37 @@
+body{
+    background-color: whitesmoke;
+}
+#main{
+    background-color: blanchedalmond;
+    text-align: center;
+    
+}
+h1{
+    padding-top: 20px;
+    font-weight: bold;
+}
+#img-div{
+    background-color: white;
+}
+#img-caption{
+    font-size: medium;
+    font-weight: bold;
+}
+#tribute-info {
+     padding: 20px 370px 20px 370px;
+      text-align: left;
+         }
+li{
+    padding-top: 20px;
+}
+#footer{
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+}
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
